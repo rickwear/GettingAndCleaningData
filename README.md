@@ -15,7 +15,7 @@ A full description of the data used in this project can be found at http://archi
 
 ##Running The Script
 
-Before you run_analysis.R you will need to set the path of the working directory to your local parent directory containing the _UCI HAR Dataset_ directory on your system.
+Before you exceute run_analysis.R you will need to set the path of the working directory to your local parent directory containing the _UCI HAR Dataset_ directory on your system.
 
 ##Project Information
 
